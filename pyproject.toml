@@ -9,6 +9,7 @@ authors = [
 requires-python = ">=3.12"
 dependencies = [
     "pandas>=3.1.1",
+    "sqlalchemy>=2.1.8",
 ]
 
 [project.scripts]
